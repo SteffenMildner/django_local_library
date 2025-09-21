@@ -208,7 +208,6 @@ __marimo__/
 
 # Text backup files
 *.bak
-*.pak
 
 # Database
 *.sqlite3
